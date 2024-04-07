@@ -1,0 +1,611 @@
+,sample1,sample2,score
+0,why does the student go to the man's office,what is the lecture mainly about,1.0
+1,why does the student go to the man's office,what can be inferred from the lecture about the effects of different types of clouds on earth's climate,0.0
+2,why does the student go to the man's office,what did the man not understand about his professors written comments,1.5
+3,why does the student go to the man's office,why does the professor say that facial expressions are relatively unimportant in live performances,0.25
+4,why does the student go to the man's office,what is the professor's attitude about the view that music was used in movie theaters to cover up the noise of the film projector,0.0
+5,what points does the man make about the article they are discussing,what does the professor mainly discuss,2.5
+6,what points does the man make about the article they are discussing,what is the lecture mainly about,1.5
+7,what points does the man make about the article they are discussing,one of the students brings up the example of play fighting among wolf pups what does this example lead him to believe,1.25
+8,how were archaeologists able to determine how the antikythera mechanism operated,what points does the man make about the article they are discussing,0.75
+9,what points does the man make about the article they are discussing,what does the woman imply about the new departmental requirements,1.5
+10,what is the student's opinion of the editorial's representation of sally smith,why does the professor mention dogs,0.0
+11,why was ancient egyptian hieroglyphic writing difficult for scholars to interpret,what is the student's opinion of the editorial's representation of sally smith,0.0
+12,why does the professor mention the fact that venus has no surface water,what is the student's opinion of the editorial's representation of sally smith,0.0
+13,what is the student's opinion of the editorial's representation of sally smith,what does the professor mainly discuss,1.0
+14,what is the student's opinion of the editorial's representation of sally smith,"according to the professor, why was bartk music popular in austria hungary",0.0
+15,what does the man imply about the university's student government organization,what does the professor imply about the use of organs to accompany silent films,1.5
+16,what does the man imply about the university's student government organization,what does the professor imply about the government's role in regulating assisted migration in the united states,1.5
+17,"according to the professor , what are two typical characteristics of a band",what does the man imply about the university's student government organization,0.5
+18,"according to the climate change theory, how did the climate change at the end of the ice age make it more difficult for large animals to survive",what does the man imply about the university's student government organization,0.0
+19,what does the man imply about the university's student government organization,what happens when a hatchling makes a distress call,0.0
+20,what does the professor say about microscopic plants in the ocean near antarctica,why does the man go to see the professor,0.75
+21,"based on the discussion, what is one reason hatchlings make vocalizations to their mother while they are in the nest",why does the man go to see the professor,0.25
+22,"according to the professor, how does a whale conserve oxygen while underwater",why does the man go to see the professor,0.5
+23,why was ancient egyptian hieroglyphic writing difficult for scholars to interpret,why does the man go to see the professor,0.0
+24,why does the man go to see the professor,what does the man say about his grandmother's music career,1.0
+25,why does the man go to see the professor,what did the man not understand about his professors written comments,2.5
+26,what is the professor's attitude about the view that music was used in movie theaters to cover up the noise of the film projector,what did the man not understand about his professors written comments,0.0
+27,what did the man not understand about his professors written comments,what is the cause of the student's problem,1.75
+28,what is the dolphin's melon,what did the man not understand about his professors written comments,0.0
+29,why does the professor mention local celebrations in the countryside,what did the man not understand about his professors written comments,0.0
+30,how did young's and champollion's studies of hieroglyphs differ from earlier studies of hieroglyphic writing,what does the man say about his grandmother's music career,0.0
+31,what does the man say about his grandmother's music career,what does the professor say about the course on nineteenth century novels,0.5
+32,"why does the professor mention upper , middle , and lower classes",what does the man say about his grandmother's music career,0.0
+33,"according to the professor, why was bartk music popular in austria hungary",what does the man say about his grandmother's music career,1.25
+34,what is the professor's opinion about the theory that venus' volcanoes are active,what does the man say about his grandmother's music career,0.0
+35,"according to the professor , what are two typical characteristics of a band",why does the professor ask the man to come early to the next class,1.0
+36,"based on the discussion, what is one reason hatchlings make vocalizations to their mother while they are in the nest",why does the professor ask the man to come early to the next class,0.25
+37,what does the professor tell the student about the tutoring center,why does the professor ask the man to come early to the next class,1.5
+38,what is the discussion mainly about,why does the professor ask the man to come early to the next class,1.0
+39,how does the man react to the information the woman gives him about where computer science books are sold,why does the professor ask the man to come early to the next class,0.25
+40,"why does the professor mention upper , middle , and lower classes",what is the conversation mainly about,1.5
+41,"why does the professor mention upper , middle , and lower classes",why does the professor ask the man to come early to the next class,1.25
+42,"why does the professor mention upper , middle , and lower classes",what is the professor's opinion about the television program that she mentions,1.2
+43,"why does the professor mention upper , middle , and lower classes",what does the professor tell the student about the tutoring center,0.75
+44,"why does the professor mention upper , middle , and lower classes",what is the dolphin's jaw able to do,0.0
+45,what is the professor's opinion about the environmental approach,what does the professor say about microscopic plants in the ocean near antarctica,1.0
+46,what is the professor's opinion about the environmental approach,what does the man suggest the student do,1.0
+47,what is the professor's opinion about the environmental approach,what is the student's opinion of the editorial's representation of sally smith,1.25
+48,what is the professor's opinion about the environmental approach,why was ancient egyptian hieroglyphic writing difficult for scholars to interpret,0.0
+49,what is the professor's opinion about the environmental approach,what happens when a hatchling makes a distress call,0.0
+50,why was ancient egyptian hieroglyphic writing difficult for scholars to interpret,what does the professor mainly discuss,0.0
+51,what does the professor mainly discuss,what is the dolphin's melon,0.0
+52,what does the professor mainly discuss,"according to the professor , why is it unusual to discover a bronze artifact from ancient greece",1.5
+53,what does the professor mainly discuss,what differences between volcanoes on venus and those on earth does the professor mention,1.5
+54,what does the professor mainly discuss,why does the man go to see the professor,1.25
+55,"according to the professor , what are two typical characteristics of a band",what was bartk original goal when he started to travel through eastern europe,0.0
+56,"according to the professor , what are two typical characteristics of a band","according to the professor, what problem is assisted migration intended to overcome",1.0
+57,what factor did astronomers consider when calculating the required solar mass for liquid water to exist on earth and mars,"according to the professor , what are two typical characteristics of a band",0.0
+58,how does the man react to the information the woman gives him about where computer science books are sold,"according to the professor , what are two typical characteristics of a band",0.0
+59,"according to the professor , what are two typical characteristics of a band",how does the professor organize the information in the lecture,1.25
+60,the professor discusses a study on the relationship between brain growth and play what does that study conclude,what does the professor say is a characteristic feature of states,0.0
+61,what does the professor say is a characteristic feature of states,what does the woman offer to do for the student,0.0
+62,what does the professor say is a characteristic feature of states,what did the man not understand about his professors written comments,0.0
+63,what does the professor say is a characteristic feature of states,"according to the professor, what problem is assisted migration intended to overcome",1.0
+64,what is the conversation mainly about,what does the professor say is a characteristic feature of states,1.5
+65,"why does the professor point out that 20,000 jobs for musicians disappeared at the end of the silent film era",what reason for prehistoric social problems does the professor mention,0.5
+66,what is the professor's opinion about thomas young's word with hieroglyphs,what reason for prehistoric social problems does the professor mention,0.0
+67,what reason for prehistoric social problems does the professor mention,what does the man say about his grandmother's music career,0.0
+68,"according to the climate change theory, how did the climate change at the end of the ice age make it more difficult for large animals to survive",what reason for prehistoric social problems does the professor mention,0.75
+69,why did the professor assign araby instead of another short story from dubliners,what reason for prehistoric social problems does the professor mention,0.0
+70,"according to the professor , why is it unusual to discover a bronze artifact from ancient greece",what is the main propose of the lecture's,1.5
+71,what does the woman imply about the new departmental requirements,what is the main propose of the lecture's,1.5
+72,what does the professor imply when she mentions translocating networking of species,what is the main propose of the lecture's,1.5
+73,what is the main propose of the lecture's,why does the professor discuss albedo,1.5
+74,what is the main propose of the lecture's,why does the professor ask the man to come early to the next class,1.25
+75,what is the lecture mainly about,why is geological evidence of liquid water on earth and mars three to four billion years ago problematic,0.0
+76,what does the professor tell the student about the tutoring center,why is geological evidence of liquid water on earth and mars three to four billion years ago problematic,0.0
+77,what is the lecture mainly about,why is geological evidence of liquid water on earth and mars three to four billion years ago problematic,0.0
+78,why does the man go to see the professor,why is geological evidence of liquid water on earth and mars three to four billion years ago problematic,0.0
+79,why did the professor assign araby instead of another short story from dubliners,why is geological evidence of liquid water on earth and mars three to four billion years ago problematic,0.0
+80,why did the greenhouse gas solution fail to explain the early presence of liquid water on earth and mars,how does the man react to the information the woman gives him about where computer science books are sold,0.0
+81,why did the greenhouse gas solution fail to explain the early presence of liquid water on earth and mars,what point does the professor make when she discusses the maclura tree,0.0
+82,why did the greenhouse gas solution fail to explain the early presence of liquid water on earth and mars,why is geological evidence of liquid water on earth and mars three to four billion years ago problematic,4.5
+83,why did the greenhouse gas solution fail to explain the early presence of liquid water on earth and mars,what does the professor mainly discuss,0.75
+84,why did the greenhouse gas solution fail to explain the early presence of liquid water on earth and mars,how does the professor try to make students feel more confident about their assignment,0.0
+85,why does the professor mention the solar wind,what is the lecture mainly about,1.0
+86,what can be inferred from the lecture about the effects of different types of clouds on earth's climate,why does the professor mention the solar wind,1.0
+87,why does the professor mention the solar wind,what does the man say about his grandmother's music career,0.0
+88,why does the professor mention the solar wind,what is the main purpose of the lecture,1.25
+89,why does the professor mention the solar wind,"according to the professor , why was it difficult for musicians to get a job at one of the film studios",0.5
+90,what factor did astronomers consider when calculating the required solar mass for liquid water to exist on earth and mars,what is the lecture mainly about,0.5
+91,what can be inferred from the lecture about the effects of different types of clouds on earth's climate,what factor did astronomers consider when calculating the required solar mass for liquid water to exist on earth and mars,0.75
+92,what factor did astronomers consider when calculating the required solar mass for liquid water to exist on earth and mars,what are two possible reasons that the speakers consider for why the man cannot find the book,0.75
+93,what factor did astronomers consider when calculating the required solar mass for liquid water to exist on earth and mars,what is the dolphin's melon,0.0
+94,why does the professor mention the solar wind,what factor did astronomers consider when calculating the required solar mass for liquid water to exist on earth and mars,1.5
+95,what is the professor's opinion about thomas young's word with hieroglyphs,what is the professor's attitude about the bright young sun solution,1.5
+96,why does the professor discuss the speed at which sound travels,what is the professor's attitude about the bright young sun solution,0.5
+97,what is the professor's attitude about the bright young sun solution,what does the professor imply about the use of organs to accompany silent films,1.0
+98,what is the professor's attitude about the bright young sun solution,what does the professor imply about the rivalry between classical ballet and modern dance,0.5
+99,what is the professor's attitude about the bright young sun solution,"according to the professor , why was it difficult for musicians to get a job at one of the film studios",0.5
+100,what is the lecture mainly about,what is the lecture mainly about,5.0
+101,what does the professor mainly discuss,what is the lecture mainly about,5.0
+102,what is the lecture mainly about,what does the professor find unusual about the music accompanying early silent films,1.5
+103,what is the lecture mainly about,what does the professor imply about the use of organs to accompany silent films,1.5
+104,what is the lecture mainly about,what is the dolphin's jaw able to do,0.5
+105,what does the professor mainly discuss,"according to the professor , what are the two main goals of pleistocene rewinding",1.5
+106,"according to the professor , what does screen dance offer to viewers that live dance does not","according to the professor , what are the two main goals of pleistocene rewinding",0.0
+107,"according to the professor , what are the two main goals of pleistocene rewinding",which statement best expresses the professor's opinion of the play as preparation hypothesis,1.15
+108,"according to the professor , what are the two main goals of pleistocene rewinding",why does the professor discuss albedo,1.25
+109,what is the professor's opinion about the theory that venus' volcanoes are active,"according to the professor , what are the two main goals of pleistocene rewinding",0.5
+110,"according to the professor , how did the american cheetah influence the pronghorn antelope during the pleistocene epoch",why does the professor discuss albedo,0.0
+111,how does the professor organize the information in the lecture,"according to the professor , how did the american cheetah influence the pronghorn antelope during the pleistocene epoch",1.25
+112,"according to the professor, how does a whale conserve oxygen while underwater","according to the professor , how did the american cheetah influence the pronghorn antelope during the pleistocene epoch",0.5
+113,"according to the professor , how did the american cheetah influence the pronghorn antelope during the pleistocene epoch",what does the woman offer to do for the student,0.0
+114,what does the man imply about the university's student government organization,"according to the professor , how did the american cheetah influence the pronghorn antelope during the pleistocene epoch",0.0
+115,what does the professor say about microscopic plants in the ocean near antarctica,what point does the professor make when she discusses the maclura tree,1.25
+116,why does the woman mention writing a letter,what point does the professor make when she discusses the maclura tree,0.0
+117,what is the lecture mainly about,what point does the professor make when she discusses the maclura tree,2.0
+118,what is the lecture mainly about,what point does the professor make when she discusses the maclura tree,1.5
+119,"according to the professor, what are two functions of the sounds made by male alligators",what point does the professor make when she discusses the maclura tree,0.0
+120,why does the professor say that plants and small animals have continued to evolve since the pleistocene,what were two characteristics of isadora duncan's dance performances,0.0
+121,why does the professor say that plants and small animals have continued to evolve since the pleistocene,what does the professor imply is one problem with the climate change theory,1.5
+122,why does the professor say that plants and small animals have continued to evolve since the pleistocene,what does the man suggest the student do,0.0
+123,why does the professor say that plants and small animals have continued to evolve since the pleistocene,why does the professor mention the fact that venus has no surface water,1.35
+124,why does the professor say that plants and small animals have continued to evolve since the pleistocene,what differences between volcanoes on venus and those on earth does the professor mention,0.0
+125,what can be inferred from the lecture about the effects of different types of clouds on earth's climate,what does the professor mainly discuss,1.75
+126,what does the professor mainly discuss,what is the dolphin's jaw able to do,0.0
+127,what did the student's group have to promise the author in order to get him to visit the university,what does the professor mainly discuss,1.0
+128,why does the professor mention an archaeological site in southern california,what does the professor mainly discuss,1.5
+129,what does the professor mainly discuss,"according to the professor, what led to the decoding of the rosetta stone",1.5
+130,why does the professor say that plants and small animals have continued to evolve since the pleistocene,"why does the professor point out that 20,000 jobs for musicians disappeared at the end of the silent film era",0.0
+131,"why does the professor point out that 20,000 jobs for musicians disappeared at the end of the silent film era",what does the professor tell the student about the tutoring center,1.0
+132,what does the professor imply about self handicapping,"why does the professor point out that 20,000 jobs for musicians disappeared at the end of the silent film era",1.25
+133,"why does the professor point out that 20,000 jobs for musicians disappeared at the end of the silent film era",how does the professor organize the information in the lecture,1.25
+134,"why does the professor point out that 20,000 jobs for musicians disappeared at the end of the silent film era",what does the man imply when he mentions the papers he has written,0.5
+135,what is the professor's attitude about the view that music was used in movie theaters to cover up the noise of the film projector,what does the professor imply about the government's role in regulating assisted migration in the united states,0.0
+136,what is the professor's attitude about the bright young sun solution,what is the professor's attitude about the view that music was used in movie theaters to cover up the noise of the film projector,1.25
+137,why does the professor talk about a dancer entering and exiting a frame,what is the professor's attitude about the view that music was used in movie theaters to cover up the noise of the film projector,1.0
+138,what is the professor's attitude toward the man's question about how whales hold their breath,what is the professor's attitude about the view that music was used in movie theaters to cover up the noise of the film projector,1.5
+139,"according to the professor , what are two typical characteristics of a band",what is the professor's attitude about the view that music was used in movie theaters to cover up the noise of the film projector,1.0
+140,what is the professor's opinion about the clovis people,what does the professor find unusual about the music accompanying early silent films,0.0
+141,what does the professor find unusual about the music accompanying early silent films,"according to the woman, why was the program's curriculum changed",0.75
+142,what does the professor imply when she mentions translocating networking of species,what does the professor find unusual about the music accompanying early silent films,0.0
+143,what does the professor find unusual about the music accompanying early silent films,"according to the professor , why was it difficult for musicians to get a job at one of the film studios",1.25
+144,what does the professor find unusual about the music accompanying early silent films,why is geological evidence of liquid water on earth and mars three to four billion years ago problematic,0.0
+145,what is the professor's opinion about the environmental approach,what does the professor imply about the use of organs to accompany silent films,1.0
+146,what is the dolphin's jaw able to do,what does the professor imply about the use of organs to accompany silent films,0.0
+147,what is the discussion mainly about,what does the professor imply about the use of organs to accompany silent films,1.25
+148,what does the professor imply about the government's role in regulating assisted migration in the united states,what does the professor imply about the use of organs to accompany silent films,0.0
+149,what does the professor imply about the use of organs to accompany silent films,what is the main purpose of the lecture,1.5
+150,what are two possible reasons that the speakers consider for why the man cannot find the book,"according to the professor , why was it difficult for musicians to get a job at one of the film studios",1.25
+151,what does the professor mainly discuss,"according to the professor , why was it difficult for musicians to get a job at one of the film studios",1.5
+152,what is the dolphin's jaw able to do,"according to the professor , why was it difficult for musicians to get a job at one of the film studios",0.0
+153,how does the man react to the information the woman gives him about where computer science books are sold,"according to the professor , why was it difficult for musicians to get a job at one of the film studios",0.25
+154,what did the student's group have to promise the author in order to get him to visit the university,"according to the professor , why was it difficult for musicians to get a job at one of the film studios",1.25
+155,what is the lecture mainly about,what is the cause of the student's problem,1.25
+156,one of the students brings up the example of play fighting among wolf pups what does this example lead him to believe,what is the cause of the student's problem,1.5
+157,what does the professor mainly discuss,what is the cause of the student's problem,1.0
+158,"according to the woman, why was the program's curriculum changed",what is the cause of the student's problem,1.0
+159,what does the professor imply is one problem with the climate change theory,what is the cause of the student's problem,1.25
+160,what did the student's group have to promise the author in order to get him to visit the university,what differences between volcanoes on venus and those on earth does the professor mention,0.0
+161,what did the student's group have to promise the author in order to get him to visit the university,what is the lecture mainly about,1.0
+162,what did the student's group have to promise the author in order to get him to visit the university,why does the student go to speak with the professor,1.25
+163,what did the student's group have to promise the author in order to get him to visit the university,why does the professor mention local celebrations in the countryside,1.0
+164,what did the student's group have to promise the author in order to get him to visit the university,what were two characteristics of isadora duncan's dance performances,0.0
+165,what does the man imply about the editors of the university'sweb site,what does the professor imply when she mentions translocating networking of species,1.25
+166,what is the professor's opinion about the television program that she mentions,what does the man imply about the editors of the university'sweb site,1.0
+167,why does the student go to the man's office,what does the man imply about the editors of the university'sweb site,1.6
+168,what does the man imply about the editors of the university'sweb site,what does the professor tell the student about the tutoring center,1.5
+169,what does the man imply about the editors of the university'sweb site,what factor did astronomers consider when calculating the required solar mass for liquid water to exist on earth and mars,0.0
+170,what does the man suggest the student do,why does the woman mention writing a letter,1.5
+171,what was demotic script used for in ancient egypt,what does the man suggest the student do,0.0
+172,what is the professor's opinion about the television program that she mentions,what does the man suggest the student do,0.75
+173,what does the man suggest the student do,what is the main propose of the lecture's,1.5
+174,what does the man suggest the student do,why does the professor discuss the speed at which sound travels,1.25
+175,why does the professor mention modern art and modern music,why does the man go to see the professor,1.1
+176,what aspect of the hydrologic cycle is the student confused about,why does the man go to see the professor,0.5
+177,why does the man go to see the professor,what does the professor imply about the rivalry between classical ballet and modern dance,0.75
+178,why does the man go to see the professor,what does the professor say is a characteristic feature of states,0.5
+179,why did the greenhouse gas solution fail to explain the early presence of liquid water on earth and mars,why does the man go to see the professor,0.0
+180,what is the professor's attitude toward the man's question about how whales hold their breath,why did the professor assign araby instead of another short story from dubliners,0.0
+181,why did the professor assign araby instead of another short story from dubliners,what is the lecture mainly about,1.0
+182,"according to the professor , how did the antikythera mechanism work",why did the professor assign araby instead of another short story from dubliners,0.0
+183,why did the professor assign araby instead of another short story from dubliners,"according to the woman, why was the program's curriculum changed",1.5
+184,what does the professor imply about self handicapping,why did the professor assign araby instead of another short story from dubliners,0.0
+185,what were two characteristics of isadora duncan's dance performances,what is the professor's attitude when she discusses the master writer seminar,0.0
+186,what is the professor's attitude when she discusses the master writer seminar,"according to the professor, why was bartk music popular in austria hungary",0.5
+187,why was ancient egyptian hieroglyphic writing difficult for scholars to interpret,what is the professor's attitude when she discusses the master writer seminar,0.0
+188,what is the professor's opinion about the future impact of screen dance,what is the professor's attitude when she discusses the master writer seminar,1.25
+189,what is the professor's opinion about the clovis people,what is the professor's attitude when she discusses the master writer seminar,1.25
+190,what does the man imply when he mentions the papers he has written,"according to the professor, what are two functions of the sounds made by male alligators",0.0
+191,what is the professor's opinion about the clovis people,what does the man imply when he mentions the papers he has written,1.0
+192,"according to the professor , what are two typical characteristics of a band",what does the man imply when he mentions the papers he has written,0.0
+193,what does the man imply when he mentions the papers he has written,what is the cause of the student's problem,1.0
+194,what reason for prehistoric social problems does the professor mention,what does the man imply when he mentions the papers he has written,1.0
+195,what is the lecture mainly about,what does the professor say about the course on nineteenth century novels,2.0
+196,what does the man imply about the university's student government organization,what does the professor say about the course on nineteenth century novels,1.5
+197,what is the lecture mainly about,what does the professor say about the course on nineteenth century novels,1.25
+198,why does the professor say that plants and small animals have continued to evolve since the pleistocene,what does the professor say about the course on nineteenth century novels,0.0
+199,what does the professor tell the student about the tutoring center,what does the professor say about the course on nineteenth century novels,1.5
+200,how were archaeologists able to determine how the antikythera mechanism operated,why does the professor mention the fact that venus has no surface water,0.0
+201,how were archaeologists able to determine how the antikythera mechanism operated,how were scientists able to learn new information about venus' surface,1.5
+202,how were archaeologists able to determine how the antikythera mechanism operated,why does the professor say that facial expressions are relatively unimportant in live performances,0.0
+203,how were archaeologists able to determine how the antikythera mechanism operated,"according to the climate change theory, how did the climate change at the end of the ice age make it more difficult for large animals to survive",0.25
+204,how were archaeologists able to determine how the antikythera mechanism operated,what does the professor imply about self handicapping,0.0
+205,why does the student go to speak with the professor,what is the lecture mainly about,1.0
+206,what is the lecture mainly about,what is the professor's attitude about the proposition that the antikythera mechanism is over two thousand years old,1.5
+207,"why does the professor mention upper , middle , and lower classes",what is the lecture mainly about,1.25
+208,what is the lecture mainly about,what is the professor's attitude about the bright young sun solution,1.5
+209,what is the lecture mainly about,one of the students brings up the example of play fighting among wolf pups what does this example lead him to believe,0.25
+210,"according to the professor , how did the antikythera mechanism work","according to the professor, why was bartk music popular in austria hungary",1.25
+211,"why does the professor mention upper , middle , and lower classes","according to the professor , how did the antikythera mechanism work",0.0
+212,what does the professor imply when she mentions translocating networking of species,"according to the professor , how did the antikythera mechanism work",1.0
+213,"according to the professor , how did the antikythera mechanism work",what is the dolphin's jaw able to do,0.0
+214,"according to the professor , how did the antikythera mechanism work",why does the professor discuss albedo,1.0
+215,what is the professor's attitude about the proposition that the antikythera mechanism is over two thousand years old,what did the man not understand about his professors written comments,0.0
+216,what is the professor's attitude about the proposition that the antikythera mechanism is over two thousand years old,what reason for prehistoric social problems does the professor mention,1.0
+217,what is the professor's attitude about the proposition that the antikythera mechanism is over two thousand years old,what does the woman imply about the new departmental requirements,1.25
+218,what is the professor's attitude about the proposition that the antikythera mechanism is over two thousand years old,the professor mentions a series of computer simulations what did the simulations suggest,1.5
+219,what is the professor's attitude about the proposition that the antikythera mechanism is over two thousand years old,what is the professor's attitude toward the effort to save the florida torreya,1.0
+220,"according to the professor , why is it unusual to discover a bronze artifact from ancient greece",one of the students brings up the example of play fighting among wolf pups what does this example lead him to believe,0.0
+221,"based on the discussion, what is one reason hatchlings make vocalizations to their mother while they are in the nest","according to the professor , why is it unusual to discover a bronze artifact from ancient greece",0.5
+222,what is the professor's opinion about thomas young's word with hieroglyphs,"according to the professor , why is it unusual to discover a bronze artifact from ancient greece",1.0
+223,"according to the professor , why is it unusual to discover a bronze artifact from ancient greece",why does the professor mention that duncan watched anna pavlova practice,0.0
+224,"why does the professor mention upper , middle , and lower classes","according to the professor , why is it unusual to discover a bronze artifact from ancient greece",1.5
+225,"according to the woman, why was the program's curriculum changed",what is the lecture mainly about,1.0
+226,what is the discussion mainly about,what is the lecture mainly about,5.0
+227,what is the lecture mainly about,why does the professor ask the man to come early to the next class,1.25
+228,how were archaeologists able to determine how the antikythera mechanism operated,what is the lecture mainly about,1.0
+229,what happens when a hatchling makes a distress call,what is the lecture mainly about,1.0
+230,"according to the professor , what is earth's radiation budget",what does the man say about his grandmother's music career,0.0
+231,what is the professor's opinion about the clovis people,"according to the professor , what is earth's radiation budget",0.0
+232,"according to the professor , how did the antikythera mechanism work","according to the professor , what is earth's radiation budget",1.0
+233,what does the professor imply is one problem with the climate change theory,"according to the professor , what is earth's radiation budget",1.25
+234,what were two characteristics of isadora duncan's dance performances,"according to the professor , what is earth's radiation budget",0.0
+235,the professor mentions a series of computer simulations what did the simulations suggest,why does the professor discuss albedo,1.25
+236,what is the professor's attitude toward the man's question about how whales hold their breath,why does the professor discuss albedo,0.0
+237,why does the professor say that plants and small animals have continued to evolve since the pleistocene,why does the professor discuss albedo,1.5
+238,what does the professor imply about the use of organs to accompany silent films,why does the professor discuss albedo,0.0
+239,what point does the professor make when she discusses the maclura tree,why does the professor discuss albedo,1.0
+240,what can be inferred from the lecture about the effects of different types of clouds on earth's climate,what is the discussion mainly about,1.5
+241,what can be inferred from the lecture about the effects of different types of clouds on earth's climate,"based on the discussion, what is one reason hatchlings make vocalizations to their mother while they are in the nest",0.0
+242,what can be inferred from the lecture about the effects of different types of clouds on earth's climate,what is the lecture mainly about,2.0
+243,what can be inferred from the lecture about the effects of different types of clouds on earth's climate,how does the professor try to make students feel more confident about their assignment,0.0
+244,what can be inferred from the lecture about the effects of different types of clouds on earth's climate,how did young's and champollion's studies of hieroglyphs differ from earlier studies of hieroglyphic writing,0.0
+245,what does the professor say about microscopic plants in the ocean near antarctica,what is the professor's attitude about the view that music was used in movie theaters to cover up the noise of the film projector,0.0
+246,what is the professor's opinion about the clovis people,what does the professor say about microscopic plants in the ocean near antarctica,0.0
+247,what does the professor say about microscopic plants in the ocean near antarctica,why does the professor mention the limited time students have to complete their papers,0.0
+248,what does the professor say about microscopic plants in the ocean near antarctica,why does the professor talk about a dancer entering and exiting a frame,0.0
+249,what does the professor say about microscopic plants in the ocean near antarctica,why was ancient egyptian hieroglyphic writing difficult for scholars to interpret,0.0
+250,why does the professor mention the fact that venus has no surface water,what is the lecture mainly about,1.25
+251,what is the lecture mainly about,why does the woman mention writing a letter,0.75
+252,what is the lecture mainly about,what factor did astronomers consider when calculating the required solar mass for liquid water to exist on earth and mars,1.25
+253,what is the lecture mainly about,why does the professor mention modern art and modern music,1.5
+254,what is the lecture mainly about,which statement best expresses the professor's opinion of the play as preparation hypothesis,1.25
+255,"according to the professor, how does a whale conserve oxygen while underwater",why does the professor discuss the speed at which sound travels,1.45
+256,why does the professor discuss the speed at which sound travels,what does the professor say about the course on nineteenth century novels,0.0
+257,what is the professor's opinion about thomas young's word with hieroglyphs,why does the professor discuss the speed at which sound travels,0.5
+258,why does the professor mention the solar wind,why does the professor discuss the speed at which sound travels,1.0
+259,why does the professor discuss the speed at which sound travels,"according to the professor, what problem is assisted migration intended to overcome",0.5
+260,what is the student's opinion of the editorial's representation of sally smith,what is the dolphin's melon,0.0
+261,what is the lecture mainly about,what is the dolphin's melon,0.5
+262,what is the dolphin's melon,the professor mentions a series of computer simulations what did the simulations suggest,0.0
+263,what does the professor imply about self handicapping,what is the dolphin's melon,0.0
+264,how does the man react to the information the woman gives him about where computer science books are sold,what is the dolphin's melon,0.0
+265,what is the discussion mainly about,what is the dolphin's jaw able to do,0.0
+266,what aspect of the hydrologic cycle is the student confused about,what is the dolphin's jaw able to do,0.0
+267,what is the dolphin's jaw able to do,"according to the professor, why was bartk music popular in austria hungary",0.0
+268,what is the lecture mainly about,what is the dolphin's jaw able to do,0.5
+269,what is the dolphin's jaw able to do,"according to the professor, what problem is assisted migration intended to overcome",0.0
+270,what does the man imply about the editors of the university'sweb site,how does the professor organize the information in the lecture,1.25
+271,how does the professor try to make students feel more confident about their assignment,how does the professor organize the information in the lecture,1.75
+272,how does the professor organize the information in the lecture,what is the lecture mainly about,1.25
+273,what does the man imply about the university's student government organization,how does the professor organize the information in the lecture,1.0
+274,what does the professor imply about self handicapping,how does the professor organize the information in the lecture,1.25
+275,what points does the man make about the article they are discussing,what is the main purpose of the lecture,1.5
+276,"why does the professor point out that 20,000 jobs for musicians disappeared at the end of the silent film era",what is the main purpose of the lecture,1.5
+277,why does the man go to see the professor,what is the main purpose of the lecture,1.25
+278,why can the man not find the book he needs,what is the main purpose of the lecture,0.5
+279,"according to the professor , what are two typical characteristics of a band",what is the main purpose of the lecture,1.0
+280,why does the professor say that facial expressions are relatively unimportant in live performances,"according to the professor , why is it unusual to discover a bronze artifact from ancient greece",0.0
+281,why does the professor say that facial expressions are relatively unimportant in live performances,what points does the man make about the article they are discussing,1.5
+282,why does the professor say that facial expressions are relatively unimportant in live performances,why does the professor mention that duncan watched anna pavlova practice,1.5
+283,why does the professor say that facial expressions are relatively unimportant in live performances,what is the lecture mainly about,1.0
+284,why does the professor say that facial expressions are relatively unimportant in live performances,"according to the professor, what problem is assisted migration intended to overcome",0.0
+285,how does the professor try to make students feel more confident about their assignment,what does the woman offer to do for the student,1.5
+286,how does the professor try to make students feel more confident about their assignment,"according to the professor , what are two typical characteristics of a band",0.5
+287,how does the professor try to make students feel more confident about their assignment,why does the professor mention dogs,1.25
+288,how does the professor try to make students feel more confident about their assignment,what is the professor's attitude about the bright young sun solution,1.25
+289,how does the professor try to make students feel more confident about their assignment,what is the professor's attitude toward the effort to save the florida torreya,1.0
+290,why does the professor talk about a dancer entering and exiting a frame,"according to the professor , what does screen dance offer to viewers that live dance does not",2.0
+291,why does the professor talk about a dancer entering and exiting a frame,what is the professor's attitude when she discusses the master writer seminar,1.0
+292,what does the professor imply when she mentions translocating networking of species,why does the professor talk about a dancer entering and exiting a frame,1.0
+293,what is the professor's opinion about the environmental approach,why does the professor talk about a dancer entering and exiting a frame,0.0
+294,why does the professor talk about a dancer entering and exiting a frame,"according to the woman, why was the program's curriculum changed",1.0
+295,"according to the professor , what does screen dance offer to viewers that live dance does not",what does the professor imply about the government's role in regulating assisted migration in the united states,0.0
+296,"according to the professor , what does screen dance offer to viewers that live dance does not",why does the professor ask the man to come early to the next class,0.0
+297,"according to the professor , what does screen dance offer to viewers that live dance does not",what does the professor say is a characteristic feature of states,0.75
+298,what is the lecture mainly about,"according to the professor , what does screen dance offer to viewers that live dance does not",1.5
+299,"according to the professor , what does screen dance offer to viewers that live dance does not",why does the man go to see the professor,0.5
+300,what is the professor's opinion about the future impact of screen dance,what does the professor imply about the rivalry between classical ballet and modern dance,1.0
+301,what aspect of the hydrologic cycle is the student confused about,what is the professor's opinion about the future impact of screen dance,0.0
+302,what is the professor's opinion about the future impact of screen dance,what does the professor say is a characteristic feature of states,0.0
+303,what is the professor's opinion about the future impact of screen dance,why does the professor mention dogs,0.0
+304,what is the professor's opinion about the future impact of screen dance,"according to the professor , why was it difficult for musicians to get a job at one of the film studios",1.0
+305,what is the professor's opinion about the theory that venus' volcanoes are active,why can the man not find the book he needs,0.0
+306,why can the man not find the book he needs,what differences between volcanoes on venus and those on earth does the professor mention,0.0
+307,why can the man not find the book he needs,what is the cause of the student's problem,3.5
+308,why can the man not find the book he needs,"according to the professor , what is earth's radiation budget",0.0
+309,"according to the professor , how did the antikythera mechanism work",why can the man not find the book he needs,0.0
+310,what was demotic script used for in ancient egypt,what are two possible reasons that the speakers consider for why the man cannot find the book,0.0
+311,what does the professor imply about the government's role in regulating assisted migration in the united states,what are two possible reasons that the speakers consider for why the man cannot find the book,0.0
+312,what is the discussion mainly about,what are two possible reasons that the speakers consider for why the man cannot find the book,1.5
+313,what is the student's opinion of the editorial's representation of sally smith,what are two possible reasons that the speakers consider for why the man cannot find the book,0.0
+314,"according to the climate change theory, how did the climate change at the end of the ice age make it more difficult for large animals to survive",what are two possible reasons that the speakers consider for why the man cannot find the book,0.0
+315,why does the student go to speak with the professor,what does the woman offer to do for the student,1.25
+316,why does the student go to the man's office,what does the woman offer to do for the student,1.25
+317,"according to the professor , why was it difficult for musicians to get a job at one of the film studios",what does the woman offer to do for the student,0.0
+318,why does the professor discuss albedo,what does the woman offer to do for the student,0.0
+319,what does the professor mainly discuss,what does the woman offer to do for the student,1.0
+320,how does the man react to the information the woman gives him about where computer science books are sold,why did the professor assign araby instead of another short story from dubliners,0.0
+321,how does the man react to the information the woman gives him about where computer science books are sold,"based on the discussion, what is one reason hatchlings make vocalizations to their mother while they are in the nest",0.0
+322,how does the man react to the information the woman gives him about where computer science books are sold,what is the lecture mainly about,0.0
+323,how does the man react to the information the woman gives him about where computer science books are sold,"according to the professor, what led to the decoding of the rosetta stone",0.5
+324,how does the man react to the information the woman gives him about where computer science books are sold,what does the professor say is a characteristic feature of states,0.0
+325,why does the student go to speak with the professor,"according to the professor , how did the antikythera mechanism work",1.25
+326,why does the student go to speak with the professor,"according to the woman, why was the program's curriculum changed",1.25
+327,why does the student go to speak with the professor,what is the main purpose of the lecture,1.25
+328,why does the student go to speak with the professor,what does the professor mainly discuss,1.5
+329,why does the student go to speak with the professor,what is the main propose of the lecture's,1.5
+330,what does the professor tell the student about the tutoring center,what is the professor's attitude toward the effort to save the florida torreya,0.0
+331,what is the professor's attitude toward the man's question about how whales hold their breath,what does the professor tell the student about the tutoring center,1.0
+332,the professor discusses a study on the relationship between brain growth and play what does that study conclude,what does the professor tell the student about the tutoring center,0.5
+333,what does the professor tell the student about the tutoring center,what is the professor's attitude when she discusses the master writer seminar,1.5
+334,what did the student's group have to promise the author in order to get him to visit the university,what does the professor tell the student about the tutoring center,1.0
+335,what aspect of the hydrologic cycle is the student confused about,what is the professor's attitude toward the effort to save the florida torreya,0.0
+336,what factor did astronomers consider when calculating the required solar mass for liquid water to exist on earth and mars,what aspect of the hydrologic cycle is the student confused about,1.0
+337,what aspect of the hydrologic cycle is the student confused about,what does the professor imply about the use of organs to accompany silent films,0.0
+338,what aspect of the hydrologic cycle is the student confused about,what does the professor imply about the government's role in regulating assisted migration in the united states,0.0
+339,what is the professor's opinion about the television program that she mentions,what aspect of the hydrologic cycle is the student confused about,0.0
+340,"why does the professor mention upper , middle , and lower classes",why does the professor mention dogs,1.5
+341,why does the professor mention dogs,"according to the professor , how did the american cheetah influence the pronghorn antelope during the pleistocene epoch",1.25
+342,why does the professor mention dogs,what is the main propose of the lecture's,1.5
+343,what is the topic of the man's paper,why does the professor mention dogs,1.0
+344,why does the professor mention dogs,"according to the woman, why was the program's curriculum changed",1.0
+345,what is the lecture mainly about,what happens when a hatchling makes a distress call,1.1
+346,what happens when a hatchling makes a distress call,what is the main purpose of the lecture,1.0
+347,what happens when a hatchling makes a distress call,"according to the professor, what are two functions of the sounds made by male alligators",1.5
+348,why does the man go to see the professor,what happens when a hatchling makes a distress call,0.0
+349,what is the dolphin's melon,what happens when a hatchling makes a distress call,0.0
+350,what does the professor imply about the government's role in regulating assisted migration in the united states,what does the professor mainly discuss,2.0
+351,what can be inferred from the lecture about the effects of different types of clouds on earth's climate,what does the professor mainly discuss,1.5
+352,what does the professor mainly discuss,why does the professor ask the man to come early to the next class,1.25
+353,what is the lecture mainly about,what does the professor mainly discuss,5.0
+354,what did the man not understand about his professors written comments,what does the professor mainly discuss,1.25
+355,why does the professor say that facial expressions are relatively unimportant in live performances,"according to the professor, what are two functions of the sounds made by male alligators",0.0
+356,how were scientists able to learn new information about venus' surface,"according to the professor, what are two functions of the sounds made by male alligators",0.0
+357,why does the student go to the man's office,"according to the professor, what are two functions of the sounds made by male alligators",0.0
+358,why does the woman mention writing a letter,"according to the professor, what are two functions of the sounds made by male alligators",0.0
+359,what is the professor's attitude about the view that music was used in movie theaters to cover up the noise of the film projector,"according to the professor, what are two functions of the sounds made by male alligators",0.0
+360,"based on the discussion, what is one reason hatchlings make vocalizations to their mother while they are in the nest","according to the professor, what led to the decoding of the rosetta stone",0.0
+361,"based on the discussion, what is one reason hatchlings make vocalizations to their mother while they are in the nest",what does the man imply about the university's student government organization,0.0
+362,"based on the discussion, what is one reason hatchlings make vocalizations to their mother while they are in the nest","according to the climate change theory, how did the climate change at the end of the ice age make it more difficult for large animals to survive",0.5
+363,"based on the discussion, what is one reason hatchlings make vocalizations to their mother while they are in the nest",why does the professor discuss albedo,0.0
+364,"based on the discussion, what is one reason hatchlings make vocalizations to their mother while they are in the nest",what is the lecture mainly about,1.5
+365,what is the professor's opinion about the television program that she mentions,what is the professor's attitude toward the man's question about how whales hold their breath,1.5
+366,what is the professor's opinion about the television program that she mentions,why does the professor mention modern art and modern music,1.5
+367,what is the professor's opinion about the television program that she mentions,what is the main purpose of the lecture,1.5
+368,what is the professor's opinion about the television program that she mentions,why can the man not find the book he needs,0.0
+369,what is the professor's opinion about the television program that she mentions,what is the dolphin's melon,0.0
+370,what is the lecture mainly about,which statement best expresses the professor's opinion of the play as preparation hypothesis,1.5
+371,what is the lecture mainly about,why does the professor talk about a dancer entering and exiting a frame,1.5
+372,what is the professor's opinion about the clovis people,what is the lecture mainly about,1.5
+373,what is the lecture mainly about,why does the man go to see the professor,1.25
+374,what does the professor imply when she mentions translocating networking of species,what is the lecture mainly about,1.5
+375,why does the professor mention modern art and modern music,what does the professor say is a characteristic feature of states,1.0
+376,why does the professor mention modern art and modern music,what is the main purpose of the lecture,1.25
+377,what does the man suggest the student do,why does the professor mention modern art and modern music,1.5
+378,why does the professor mention modern art and modern music,why is geological evidence of liquid water on earth and mars three to four billion years ago problematic,0.0
+379,"according to the professor , how did the antikythera mechanism work",why does the professor mention modern art and modern music,1.0
+380,what aspect of the hydrologic cycle is the student confused about,what were two characteristics of isadora duncan's dance performances,0.0
+381,what were two characteristics of isadora duncan's dance performances,what does the woman offer to do for the student,0.0
+382,why does the student go to the man's office,what were two characteristics of isadora duncan's dance performances,0.0
+383,what were two characteristics of isadora duncan's dance performances,the professor mentions a series of computer simulations what did the simulations suggest,0.0
+384,the professor discusses a study on the relationship between brain growth and play what does that study conclude,what were two characteristics of isadora duncan's dance performances,0.0
+385,what does the professor find unusual about the music accompanying early silent films,why does the professor mention that duncan watched anna pavlova practice,1.0
+386,"according to the professor , what does screen dance offer to viewers that live dance does not",why does the professor mention that duncan watched anna pavlova practice,1.25
+387,why does the professor mention the solar wind,why does the professor mention that duncan watched anna pavlova practice,1.25
+388,"according to the professor , what are two typical characteristics of a band",why does the professor mention that duncan watched anna pavlova practice,0.25
+389,how did young's and champollion's studies of hieroglyphs differ from earlier studies of hieroglyphic writing,why does the professor mention that duncan watched anna pavlova practice,0.25
+390,what factor did astronomers consider when calculating the required solar mass for liquid water to exist on earth and mars,what does the professor imply about the rivalry between classical ballet and modern dance,0.0
+391,what does the professor imply about the government's role in regulating assisted migration in the united states,what does the professor imply about the rivalry between classical ballet and modern dance,0.5
+392,"why does the professor point out that 20,000 jobs for musicians disappeared at the end of the silent film era",what does the professor imply about the rivalry between classical ballet and modern dance,1.0
+393,what is the professor's opinion about the television program that she mentions,what does the professor imply about the rivalry between classical ballet and modern dance,1.25
+394,why does the woman mention writing a letter,what does the professor imply about the rivalry between classical ballet and modern dance,0.0
+395,what points does the man make about the article they are discussing,what is the lecture mainly about,1.5
+396,what differences between volcanoes on venus and those on earth does the professor mention,what is the lecture mainly about,1.25
+397,what is the dolphin's jaw able to do,what is the lecture mainly about,0.0
+398,what does the professor say is a characteristic feature of states,what is the lecture mainly about,1.0
+399,what point does the professor make when she discusses the maclura tree,what is the lecture mainly about,1.5
+400,why does the professor mention an archaeological site in southern california,what is the professor's opinion about the future impact of screen dance,0.0
+401,why does the professor mention an archaeological site in southern california,why does the student go to speak with the professor,1.5
+402,why does the professor mention an archaeological site in southern california,what does the professor imply about the rivalry between classical ballet and modern dance,1.0
+403,why does the professor mention an archaeological site in southern california,what is the professor's attitude toward the man's question about how whales hold their breath,0.0
+404,why does the professor mention an archaeological site in southern california,why does the professor mention the fact that venus has no surface water,0.75
+405,what is the professor's opinion about the clovis people,one of the students brings up the example of play fighting among wolf pups what does this example lead him to believe,0.0
+406,what is the professor's opinion about the clovis people,what does the woman imply about the new departmental requirements,0.0
+407,what is the professor's opinion about the clovis people,what is the professor's opinion about the future impact of screen dance,0.0
+408,what is the professor's opinion about the clovis people,what does the professor imply about romantic music in austria hungary in the early 1900s,0.0
+409,what is the professor's opinion about the clovis people,what was bartk original goal when he started to travel through eastern europe,0.0
+410,"according to the climate change theory, how did the climate change at the end of the ice age make it more difficult for large animals to survive",what is the lecture mainly about,0.5
+411,what does the professor imply about self handicapping,"according to the climate change theory, how did the climate change at the end of the ice age make it more difficult for large animals to survive",0.0
+412,"according to the climate change theory, how did the climate change at the end of the ice age make it more difficult for large animals to survive",how did young's and champollion's studies of hieroglyphs differ from earlier studies of hieroglyphic writing,0.0
+413,"according to the climate change theory, how did the climate change at the end of the ice age make it more difficult for large animals to survive",why does the professor discuss the speed at which sound travels,0.0
+414,"according to the climate change theory, how did the climate change at the end of the ice age make it more difficult for large animals to survive",what is the dolphin's melon,0.0
+415,what is the professor's attitude toward the man's question about how whales hold their breath,what does the professor imply is one problem with the climate change theory,1.0
+416,what factor did astronomers consider when calculating the required solar mass for liquid water to exist on earth and mars,what does the professor imply is one problem with the climate change theory,1.25
+417,what was demotic script used for in ancient egypt,what does the professor imply is one problem with the climate change theory,0.0
+418,what does the professor imply is one problem with the climate change theory,what is the professor's attitude toward the effort to save the florida torreya,1.0
+419,what is the student's opinion of the editorial's representation of sally smith,what does the professor imply is one problem with the climate change theory,0.25
+420,what did the student's group have to promise the author in order to get him to visit the university,the professor mentions a series of computer simulations what did the simulations suggest,1.0
+421,why does the man go to see the professor,the professor mentions a series of computer simulations what did the simulations suggest,1.25
+422,why does the professor talk about a dancer entering and exiting a frame,the professor mentions a series of computer simulations what did the simulations suggest,1.0
+423,the professor mentions a series of computer simulations what did the simulations suggest,"according to the professor , how did the american cheetah influence the pronghorn antelope during the pleistocene epoch",1.5
+424,the professor mentions a series of computer simulations what did the simulations suggest,which statement best expresses the professor's opinion of the play as preparation hypothesis,1.0
+425,"according to the woman, why was the program's curriculum changed",what is the lecture mainly about,1.25
+426,what is the discussion mainly about,what is the lecture mainly about,5.0
+427,what is the lecture mainly about,what does the man say about his grandmother's music career,1.5
+428,what is the professor's attitude toward the man's question about how whales hold their breath,what is the lecture mainly about,1.25
+429,the professor mentions a series of computer simulations what did the simulations suggest,what is the lecture mainly about,1.25
+430,what is the professor's attitude toward the man's question about how whales hold their breath,how were scientists able to learn new information about venus' surface,0.0
+431,how were scientists able to learn new information about venus' surface,what is the cause of the student's problem,0.0
+432,how were scientists able to learn new information about venus' surface,"according to the professor, what problem is assisted migration intended to overcome",0.0
+433,what is the professor's opinion about the clovis people,how were scientists able to learn new information about venus' surface,0.0
+434,what does the man imply about the editors of the university'sweb site,how were scientists able to learn new information about venus' surface,0.0
+435,why does the man go to see the professor,what differences between volcanoes on venus and those on earth does the professor mention,0.0
+436,how does the professor organize the information in the lecture,what differences between volcanoes on venus and those on earth does the professor mention,1.5
+437,what does the man imply when he mentions the papers he has written,what differences between volcanoes on venus and those on earth does the professor mention,0.25
+438,why does the professor talk about a dancer entering and exiting a frame,what differences between volcanoes on venus and those on earth does the professor mention,0.0
+439,what is the main purpose of the lecture,what differences between volcanoes on venus and those on earth does the professor mention,1.0
+440,why does the professor mention the fact that venus has no surface water,what was bartk original goal when he started to travel through eastern europe,0.0
+441,why does the professor mention the fact that venus has no surface water,why does the professor say that facial expressions are relatively unimportant in live performances,0.0
+442,why does the professor mention the fact that venus has no surface water,what is the professor's attitude when she discusses the master writer seminar,0.0
+443,why does the professor mention the fact that venus has no surface water,"according to the woman, why was the program's curriculum changed",0.5
+444,why does the professor mention the fact that venus has no surface water,"according to the professor , what are two typical characteristics of a band",0.0
+445,"according to the professor, what is a possible origin of venus' clouds",why does the professor ask the man to come early to the next class,0.0
+446,"according to the professor, what is a possible origin of venus' clouds",what factor did astronomers consider when calculating the required solar mass for liquid water to exist on earth and mars,0.25
+447,"according to the professor, what is a possible origin of venus' clouds",what is the lecture mainly about,1.5
+448,"according to the professor, what is a possible origin of venus' clouds","according to the professor, what are two functions of the sounds made by male alligators",0.0
+449,"according to the professor, what is a possible origin of venus' clouds","according to the professor , what are two typical characteristics of a band",1.25
+450,what is the professor's opinion about the theory that venus' volcanoes are active,what does the professor say about the course on nineteenth century novels,0.0
+451,what is the professor's opinion about the theory that venus' volcanoes are active,what is the discussion mainly about,1.0
+452,what is the professor's opinion about the theory that venus' volcanoes are active,why does the man go to see the professor,0.25
+453,what is the professor's opinion about the clovis people,what is the professor's opinion about the theory that venus' volcanoes are active,0.5
+454,"why does the professor mention upper , middle , and lower classes",what is the professor's opinion about the theory that venus' volcanoes are active,0.0
+455,what is the conversation mainly about,why is geological evidence of liquid water on earth and mars three to four billion years ago problematic,0.0
+456,what is the conversation mainly about,why does the professor mention that duncan watched anna pavlova practice,1.35
+457,what point does the professor make when she discusses the cane toad,what is the conversation mainly about,1.5
+458,what is the conversation mainly about,why does the professor ask the man to come early to the next class,1.25
+459,what is the conversation mainly about,"according to the professor, what problem is assisted migration intended to overcome",1.5
+460,why was ancient egyptian hieroglyphic writing difficult for scholars to interpret,"according to the woman, why was the program's curriculum changed",1.0
+461,why did the greenhouse gas solution fail to explain the early presence of liquid water on earth and mars,"according to the woman, why was the program's curriculum changed",0.5
+462,"according to the woman, why was the program's curriculum changed",what is the professor's attitude when she discusses the master writer seminar,1.5
+463,why does the professor mention an archaeological site in southern california,"according to the woman, why was the program's curriculum changed",1.0
+464,what does the professor imply when she mentions translocating networking of species,"according to the woman, why was the program's curriculum changed",1.5
+465,the professor mentions a series of computer simulations what did the simulations suggest,what does the woman imply about the new departmental requirements,1.0
+466,what does the woman imply about the new departmental requirements,what is the lecture mainly about,1.25
+467,why does the professor mention dogs,what does the woman imply about the new departmental requirements,0.0
+468,what does the professor imply is one problem with the climate change theory,what does the woman imply about the new departmental requirements,1.5
+469,what aspect of the hydrologic cycle is the student confused about,what does the woman imply about the new departmental requirements,0.5
+470,what does the man imply when he mentions the papers he has written,why does the woman mention writing a letter,1.5
+471,why does the professor mention the fact that venus has no surface water,why does the woman mention writing a letter,0.25
+472,how did young's and champollion's studies of hieroglyphs differ from earlier studies of hieroglyphic writing,why does the woman mention writing a letter,0.0
+473,what is the professor's attitude toward the man's question about how whales hold their breath,why does the woman mention writing a letter,0.0
+474,what can be inferred from the lecture about the effects of different types of clouds on earth's climate,why does the woman mention writing a letter,0.0
+475,why does the man go to see the professor,why does the man go to see the professor,5.0
+476,what does the man say about his grandmother's music career,why does the man go to see the professor,1.0
+477,what was bartk original goal when he started to travel through eastern europe,why does the man go to see the professor,0.0
+478,what reason for prehistoric social problems does the professor mention,why does the man go to see the professor,1.25
+479,what is the lecture mainly about,why does the man go to see the professor,1.25
+480,what is the topic of the man's paper,what does the man imply about the editors of the university'sweb site,1.5
+481,what is the topic of the man's paper,what is the conversation mainly about,2.5
+482,what is the topic of the man's paper,what is the professor's attitude toward the effort to save the florida torreya,0.5
+483,what is the topic of the man's paper,what is the lecture mainly about,3.0
+484,what is the topic of the man's paper,what is the main purpose of the lecture,1.5
+485,what is the professor's attitude toward the man's question about how whales hold their breath,what is the discussion mainly about,1.25
+486,what is the professor's attitude toward the man's question about how whales hold their breath,what is the dolphin's melon,0.0
+487,what is the professor's attitude toward the man's question about how whales hold their breath,"according to the professor , why was it difficult for musicians to get a job at one of the film studios",0.0
+488,what does the professor imply about self handicapping,what is the professor's attitude toward the man's question about how whales hold their breath,1.35
+489,what is the professor's attitude toward the man's question about how whales hold their breath,what does the professor mainly discuss,1.5
+490,why does the professor mention the limited time students have to complete their papers,what is the professor's opinion about thomas young's word with hieroglyphs,0.5
+491,why does the professor mention the limited time students have to complete their papers,why does the professor mention local celebrations in the countryside,1.25
+492,why does the professor mention the limited time students have to complete their papers,"according to the professor, what problem is assisted migration intended to overcome",0.0
+493,why does the professor mention the limited time students have to complete their papers,"according to the professor , why was it difficult for musicians to get a job at one of the film studios",1.25
+494,why was ancient egyptian hieroglyphic writing difficult for scholars to interpret,why does the professor mention the limited time students have to complete their papers,0.25
+495,"according to the professor, how does a whale conserve oxygen while underwater",what happens when a hatchling makes a distress call,0.0
+496,"according to the professor, what led to the decoding of the rosetta stone","according to the professor, how does a whale conserve oxygen while underwater",0.0
+497,"according to the professor, how does a whale conserve oxygen while underwater",what is the main propose of the lecture's,1.25
+498,"according to the professor, how does a whale conserve oxygen while underwater",what is the dolphin's melon,0.5
+499,what is the lecture mainly about,"according to the professor, how does a whale conserve oxygen while underwater",1.25
+500,what does the professor imply about the government's role in regulating assisted migration in the united states,"according to the professor, what problem is assisted migration intended to overcome",2.5
+501,what does the professor imply about the government's role in regulating assisted migration in the united states,"according to the professor , what are the two main goals of pleistocene rewinding",1.15
+502,what does the professor imply about the government's role in regulating assisted migration in the united states,"according to the professor, why was bartk music popular in austria hungary",0.0
+503,why does the student go to speak with the professor,what does the professor imply about the government's role in regulating assisted migration in the united states,1.0
+504,what is the professor's opinion about the television program that she mentions,what does the professor imply about the government's role in regulating assisted migration in the united states,1.0
+505,"according to the professor , how did the antikythera mechanism work",what is the professor's attitude toward the effort to save the florida torreya,0.0
+506,what happens when a hatchling makes a distress call,what is the professor's attitude toward the effort to save the florida torreya,0.0
+507,why was ancient egyptian hieroglyphic writing difficult for scholars to interpret,what is the professor's attitude toward the effort to save the florida torreya,0.0
+508,what is the dolphin's jaw able to do,what is the professor's attitude toward the effort to save the florida torreya,0.0
+509,what is the lecture mainly about,what is the professor's attitude toward the effort to save the florida torreya,1.25
+510,what does the professor mainly discuss,what is the main purpose of the lecture,5.0
+511,"according to the climate change theory, how did the climate change at the end of the ice age make it more difficult for large animals to survive",what is the main purpose of the lecture,1.0
+512,"according to the professor , what are the two main goals of pleistocene rewinding",what is the main purpose of the lecture,1.5
+513,"according to the professor , why is it unusual to discover a bronze artifact from ancient greece",what is the main purpose of the lecture,1.25
+514,what is the main purpose of the lecture,"according to the professor , why was it difficult for musicians to get a job at one of the film studios",1.5
+515,what does the professor mainly discuss,"according to the professor, what problem is assisted migration intended to overcome",2.5
+516,what points does the man make about the article they are discussing,"according to the professor, what problem is assisted migration intended to overcome",1.25
+517,what is the professor's attitude when she discusses the master writer seminar,"according to the professor, what problem is assisted migration intended to overcome",0.25
+518,what does the man imply about the editors of the university'sweb site,"according to the professor, what problem is assisted migration intended to overcome",1.0
+519,what was demotic script used for in ancient egypt,"according to the professor, what problem is assisted migration intended to overcome",0.0
+520,what point does the professor make when she discusses the cane toad,what does the man imply about the editors of the university'sweb site,1.0
+521,what point does the professor make when she discusses the cane toad,what is the professor's opinion about the environmental approach,1.5
+522,what point does the professor make when she discusses the cane toad,why does the man go to see the professor,1.0
+523,what point does the professor make when she discusses the cane toad,what is the lecture mainly about,1.5
+524,what point does the professor make when she discusses the cane toad,why does the professor discuss the speed at which sound travels,0.0
+525,why does the student go to the man's office,what does the professor imply when she mentions translocating networking of species,1.0
+526,what does the professor imply when she mentions translocating networking of species,what is the lecture mainly about,1.5
+527,what does the professor imply when she mentions translocating networking of species,what is the student's opinion of the editorial's representation of sally smith,0.25
+528,what does the professor imply when she mentions translocating networking of species,one of the students brings up the example of play fighting among wolf pups what does this example lead him to believe,1.25
+529,what does the professor imply when she mentions translocating networking of species,what points does the man make about the article they are discussing,1.5
+530,what can be inferred from the lecture about the effects of different types of clouds on earth's climate,what is the lecture mainly about,1.25
+531,the professor discusses a study on the relationship between brain growth and play what does that study conclude,what is the lecture mainly about,1.5
+532,what is the lecture mainly about,what does the man say about his grandmother's music career,1.5
+533,why does the professor say that plants and small animals have continued to evolve since the pleistocene,what is the lecture mainly about,1.0
+534,what is the lecture mainly about,why does the man go to see the professor,1.5
+535,the professor discusses a study on the relationship between brain growth and play what does that study conclude,what does the professor imply about romantic music in austria hungary in the early 1900s,0.5
+536,how does the man react to the information the woman gives him about where computer science books are sold,what does the professor imply about romantic music in austria hungary in the early 1900s,0.0
+537,what does the professor imply about romantic music in austria hungary in the early 1900s,what is the cause of the student's problem,0.0
+538,what does the professor imply about romantic music in austria hungary in the early 1900s,"according to the woman, why was the program's curriculum changed",0.5
+539,"according to the professor, what is a possible origin of venus' clouds",what does the professor imply about romantic music in austria hungary in the early 1900s,0.0
+540,what does the professor imply about romantic music in austria hungary in the early 1900s,why does the professor mention local celebrations in the countryside,1.0
+541,why does the professor mention local celebrations in the countryside,what happens when a hatchling makes a distress call,0.0
+542,what is the professor's attitude about the view that music was used in movie theaters to cover up the noise of the film projector,why does the professor mention local celebrations in the countryside,1.0
+543,why does the professor mention local celebrations in the countryside,what is the main purpose of the lecture,1.5
+544,why does the professor mention local celebrations in the countryside,why does the professor ask the man to come early to the next class,1.5
+545,"according to the climate change theory, how did the climate change at the end of the ice age make it more difficult for large animals to survive",what was bartk original goal when he started to travel through eastern europe,0.0
+546,what does the man imply about the university's student government organization,what was bartk original goal when he started to travel through eastern europe,0.0
+547,what is the conversation mainly about,what was bartk original goal when he started to travel through eastern europe,0.75
+548,what can be inferred from the lecture about the effects of different types of clouds on earth's climate,what was bartk original goal when he started to travel through eastern europe,0.0
+549,what is the discussion mainly about,what was bartk original goal when he started to travel through eastern europe,1.5
+550,what does the professor say is a characteristic feature of states,"according to the professor, why was bartk music popular in austria hungary",0.5
+551,"according to the professor, why was bartk music popular in austria hungary","according to the professor, what problem is assisted migration intended to overcome",0.75
+552,what is the professor's attitude about the bright young sun solution,"according to the professor, why was bartk music popular in austria hungary",0.5
+553,what is the lecture mainly about,"according to the professor, why was bartk music popular in austria hungary",1.5
+554,what does the professor mainly discuss,"according to the professor, why was bartk music popular in austria hungary",1.5
+555,"according to the professor, how does a whale conserve oxygen while underwater",what is the lecture mainly about,1.25
+556,what is the student's opinion of the editorial's representation of sally smith,what is the lecture mainly about,0.5
+557,what is the lecture mainly about,what is the lecture mainly about,5.0
+558,why does the professor mention the solar wind,what is the lecture mainly about,1.5
+559,why does the professor discuss albedo,what is the lecture mainly about,1.5
+560,what was demotic script used for in ancient egypt,what is the dolphin's melon,0.0
+561,what was demotic script used for in ancient egypt,how did young's and champollion's studies of hieroglyphs differ from earlier studies of hieroglyphic writing,1.5
+562,what was demotic script used for in ancient egypt,why does the professor mention that duncan watched anna pavlova practice,0.0
+563,what was demotic script used for in ancient egypt,what is the professor's attitude about the bright young sun solution,0.0
+564,what was demotic script used for in ancient egypt,what factor did astronomers consider when calculating the required solar mass for liquid water to exist on earth and mars,0.0
+565,why was ancient egyptian hieroglyphic writing difficult for scholars to interpret,why does the professor talk about a dancer entering and exiting a frame,0.0
+566,why was ancient egyptian hieroglyphic writing difficult for scholars to interpret,"according to the professor, what problem is assisted migration intended to overcome",0.0
+567,why was ancient egyptian hieroglyphic writing difficult for scholars to interpret,what is the conversation mainly about,0.0
+568,why was ancient egyptian hieroglyphic writing difficult for scholars to interpret,what does the professor imply is one problem with the climate change theory,0.0
+569,why was ancient egyptian hieroglyphic writing difficult for scholars to interpret,"according to the professor, how does a whale conserve oxygen while underwater",0.0
+570,what is the professor's opinion about thomas young's word with hieroglyphs,what does the professor say about the course on nineteenth century novels,1.0
+571,what is the professor's opinion about thomas young's word with hieroglyphs,the professor mentions a series of computer simulations what did the simulations suggest,1.25
+572,why does the student go to the man's office,what is the professor's opinion about thomas young's word with hieroglyphs,0.0
+573,what is the professor's opinion about thomas young's word with hieroglyphs,what does the man imply about the university's student government organization,0.0
+574,what is the professor's opinion about thomas young's word with hieroglyphs,which statement best expresses the professor's opinion of the play as preparation hypothesis,1.5
+575,why does the professor mention modern art and modern music,"according to the professor, what led to the decoding of the rosetta stone",1.25
+576,"according to the professor, what led to the decoding of the rosetta stone","according to the professor , how did the american cheetah influence the pronghorn antelope during the pleistocene epoch",0.0
+577,why does the professor mention the limited time students have to complete their papers,"according to the professor, what led to the decoding of the rosetta stone",1.25
+578,why does the man go to see the professor,"according to the professor, what led to the decoding of the rosetta stone",1.0
+579,"according to the professor , what does screen dance offer to viewers that live dance does not","according to the professor, what led to the decoding of the rosetta stone",0.0
+580,how did young's and champollion's studies of hieroglyphs differ from earlier studies of hieroglyphic writing,"according to the professor , what is earth's radiation budget",0.0
+581,why does the professor mention local celebrations in the countryside,how did young's and champollion's studies of hieroglyphs differ from earlier studies of hieroglyphic writing,0.0
+582,why does the professor say that facial expressions are relatively unimportant in live performances,how did young's and champollion's studies of hieroglyphs differ from earlier studies of hieroglyphic writing,0.0
+583,how did young's and champollion's studies of hieroglyphs differ from earlier studies of hieroglyphic writing,why does the professor discuss albedo,0.0
+584,how does the professor try to make students feel more confident about their assignment,how did young's and champollion's studies of hieroglyphs differ from earlier studies of hieroglyphic writing,0.0
+585,what were two characteristics of isadora duncan's dance performances,what is the discussion mainly about,1.0
+586,why does the professor mention the fact that venus has no surface water,what is the discussion mainly about,1.0
+587,what does the professor imply about romantic music in austria hungary in the early 1900s,what is the discussion mainly about,1.25
+588,why does the professor talk about a dancer entering and exiting a frame,what is the discussion mainly about,1.0
+589,what is the professor's attitude about the proposition that the antikythera mechanism is over two thousand years old,what is the discussion mainly about,1.25
+590,what does the professor imply about self handicapping,one of the students brings up the example of play fighting among wolf pups what does this example lead him to believe,1.5
+591,what can be inferred from the lecture about the effects of different types of clouds on earth's climate,one of the students brings up the example of play fighting among wolf pups what does this example lead him to believe,0.0
+592,what does the professor imply about the government's role in regulating assisted migration in the united states,one of the students brings up the example of play fighting among wolf pups what does this example lead him to believe,0.0
+593,how does the man react to the information the woman gives him about where computer science books are sold,one of the students brings up the example of play fighting among wolf pups what does this example lead him to believe,0.0
+594,one of the students brings up the example of play fighting among wolf pups what does this example lead him to believe,what is the main propose of the lecture's,1.5
+595,what is the professor's attitude about the bright young sun solution,which statement best expresses the professor's opinion of the play as preparation hypothesis,1.5
+596,what does the woman imply about the new departmental requirements,which statement best expresses the professor's opinion of the play as preparation hypothesis,1.25
+597,why is geological evidence of liquid water on earth and mars three to four billion years ago problematic,which statement best expresses the professor's opinion of the play as preparation hypothesis,0.0
+598,what point does the professor make when she discusses the cane toad,which statement best expresses the professor's opinion of the play as preparation hypothesis,1.5
+599,"according to the professor, what is a possible origin of venus' clouds",which statement best expresses the professor's opinion of the play as preparation hypothesis,1.5
+600,what does the professor imply about self handicapping,why does the professor mention that duncan watched anna pavlova practice,1.0
+601,what does the professor imply about self handicapping,"according to the professor , why was it difficult for musicians to get a job at one of the film studios",1.25
+602,what does the professor imply about self handicapping,what is the main propose of the lecture's,1.5
+603,what does the professor imply about self handicapping,"according to the professor , what does screen dance offer to viewers that live dance does not",0.75
+604,what does the professor imply about self handicapping,what is the professor's attitude about the bright young sun solution,1.5
+605,what is the professor's opinion about the clovis people,the professor discusses a study on the relationship between brain growth and play what does that study conclude,0.0
+606,the professor discusses a study on the relationship between brain growth and play what does that study conclude,"according to the professor , what is earth's radiation budget",0.5
+607,the professor discusses a study on the relationship between brain growth and play what does that study conclude,why does the professor discuss albedo,0.0
+608,the professor discusses a study on the relationship between brain growth and play what does that study conclude,"according to the professor , what does screen dance offer to viewers that live dance does not",0.75
+609,the professor discusses a study on the relationship between brain growth and play what does that study conclude,what does the professor find unusual about the music accompanying early silent films,1.0
